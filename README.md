@@ -1,21 +1,5 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+## Website FDND
+![Schermafbeelding 2022-10-31 om 13 56 05](https://user-images.githubusercontent.com/112856019/199016302-42d4a3b3-7764-4864-9223-296bf50c62c8.png)
 
-
-# WCAG Audit 
-
-Doe een WCAG test op een bestaande website en rapporteer daar over.
-
-## Titel Website
-
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
-
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
-
-Schrijf een een samenvatting van de test bevindingen.
-
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+## Resultaat 
+![Schermafbeelding 2022-10-31 om 13 59 38](https://user-images.githubusercontent.com/112856019/199016266-ee6e40f9-a9d8-496e-9099-2089c2a0d5da.png)
